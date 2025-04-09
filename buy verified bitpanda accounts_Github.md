@@ -47,7 +47,7 @@ Interested in purchasing? Visit our official site or contact us via
 Telegram:
 
 -   🌐 Website:
-    [[virtualbypasso.com]{.underline}](https://virtualbypasso.com)
+    [[virtualbypasso.com]](https://virtualbypasso.com)
 
 -   📬 Telegram: \@virtualbypasso
 
